@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Accounting Web](https://github.com/captainAyan/accounting-web)
 
-- 🌱 I’m currently learning **Kotlin 😩**
-
 - 📝 I "regularly" write articles on [https://captainayan.hashnode.dev/](https://captainayan.hashnode.dev/)
 
 - 📫 How to reach me : Send me a friend request on Discord (@captainayan#5716)
