@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Accounting Web](https://github.com/captainAyan/accounting-web)
 
-- 📝 I "regularly" write articles on [https://captainayan.hashnode.dev/](https://captainayan.hashnode.dev/)
+- 📝 I "regularly" write articles on [https://captainayan-blog.vercel.app/](https://captainayan-blog.vercel.app/)
 
 - 📫 How to reach me : Send me a friend request on Discord (@captainayan#5716)
 
@@ -21,7 +21,6 @@
 #### Others
 - Codewars - [@captainAyan](https://www.codewars.com/users/captainayan)
 - Sololearn - [@captainAyan](https://www.sololearn.com/Profile/6212313)
-- HashNode - [@captainAyan](https://hashnode.com/@captainayan)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
