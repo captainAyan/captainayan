@@ -21,6 +21,7 @@
 #### Others
 - Codewars - [@captainAyan](https://www.codewars.com/users/captainayan)
 - Sololearn - [@captainAyan](https://www.sololearn.com/Profile/6212313)
+- Replit - [@captainAyan](https://replit.com/@captainAyan)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
