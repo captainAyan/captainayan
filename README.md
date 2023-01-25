@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainayan&label=Profile%20views&color=0e75b6&style=flat" alt="captainayan" /> </p>
 
-- 🔭 I’m currently working on [Accounting Web](https://github.com/captainAyan/accounting-web)
+- 🔭 I’m currently working on [Quiz](https://github.com/captainAyan/quiz)
 
 - 📝 I "regularly" write articles on [https://captainayan-blog.vercel.app/](https://captainayan-blog.vercel.app/)
 
