@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayan from Kolkata</h1>
-<h3 align="center">I am a Self-taught programmer with a Bachelors degree in Commerce.</h3>
+<h3 align="center">I am a Self-taught Programmer and a Game Developer with a Bachelors degree in Commerce.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captainayan&label=Profile%20views&color=0e75b6&style=flat" alt="captainayan" /> </p>
 
