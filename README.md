@@ -16,7 +16,6 @@
 <a href="https://discord.gg/https://discord.gg/pA95MjVj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/pA95MjVj" height="30" width="40" /></a>
 
 #### Others
-- Codewars - [@captainAyan](https://www.codewars.com/users/captainayan)
 - Sololearn - [@captainAyan](https://www.sololearn.com/Profile/6212313)
 - Replit - [@captainAyan](https://replit.com/@captainAyan)
 </p>
